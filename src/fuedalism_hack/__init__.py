@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from fuedalism-hack!")
+    print("Hello from feudalism-hack!")
